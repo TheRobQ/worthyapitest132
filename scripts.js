@@ -12,7 +12,7 @@ $(document).ready(function() {
       email: email,
     }),
     headers: {
-        "Authorization": "Bearer mrduNivtFDdcA4v47KwkjtQm8poDDZvY"
+        "Authorization": "Bearer insert key please"
     },
     success: function (data) {
         console.log(data);
