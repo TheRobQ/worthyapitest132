@@ -12,7 +12,7 @@ $(document).ready(function() {
       email: email,
     }),
     headers: {
-        "Authorization": "Bearer XgFib7P0pDnztfqbvVA7rl07bPGLQPxl"
+        "Authorization": "Bearer mrduNivtFDdcA4v47KwkjtQm8poDDZvYl"
     },
     success: function (data) {
         console.log(data);
